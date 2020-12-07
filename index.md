@@ -1,37 +1,41 @@
 ## How to get ready for a phone/skype/zoom interview for an academic job
 
-You can use the [editor on GitHub](https://github.com/blogthings/academic-jobs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You have tirelessly applied to several academic positions and now your hard work is paying off... You got an interview. Depending on your field, the number of applications received by the faculty search committee varies tremendously. For example, an assistant professor in Mathematics position in a liberal arts college can expect to have about 100-200 applications while an assistant professor in Statistics position can only be around 50 applications. Regardless of the number of applications, getting an interview for an academic position, especially if it a tenure track position, is a huge deal. I have been in your place not too long ago and now I am on the other side of the table. So, I thought I share my experience being on several faculty search committees.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As I mentioned earlier, the numbers that I present here can depend on a lot of factors, but I hope it will give you a general idea. That being said, if you were offered a phone/skype/zoom interview, it is safe to assume that you among the first 10-15(ish) applicants. The goal now is to rise to the top three (that is usually how my applicants we usually bring to the campus for an on-campus interview). 
 
-```markdown
-Syntax highlighted code block
+Now you need to prepare (a lot). Here are the steps I would recommend.
 
-# Header 1
-## Header 2
-### Header 3
+1) read the advertisement very carefully:
+The faculty search committee spends a significant amount of time crafting the advertisement for the position to make sure that they communicate well to the applicants. Therefore the first thing to do is to go back and read the advertisement very carefully. 
 
-- Bulleted
-- List
+Generally, the main thing in an advertisement is the "minimum qualifications". At this stage, you do not need to worry about this as you would not get the interview if your application did not meet the minimum requirements. 
 
-1. Numbered
-2. List
+The second main component is the duties and responsibilities. This part is very important. During the interview, you need to convince the committee that you are not only more than capable of handling the duties and responsibilities but also you would enjoy doing so.
 
-**Bold** and _Italic_ and `Code` text
+2) Do your Research!
+Most of the time the first question in a phone/skype/zoom interview is "Tell us what attracted you to this position?/ What do you know about us?" Now, that is an easy question! but a very important one! It is okay to provide a lengthy answer. Strat from the location of the University and tell the committee why you like the area, for example, this is where you grew up or your friends and family live around the area or you love to live in a city/rural setting etc. Then talk briefly about the University: What do you like about it?  Finally, talk about the Department you applied: Programs (department website), courses in those programs  (department website/ university course bulletin). faculty members (by name) that you hope to collaborate with, etc. 
+This way the committee come to realize that you have done your homework and you have a genuine interest in the position.
 
-[Link](url) and ![Image](src)
-```
+3) Answer with your experience (what you did, not what would you do?):
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When answering questions, especially regarding teaching, bring out examples from your own experience in the classroom. It is okay if you do not have many years of experience, the committee is aware of the level of experience you have, but try to relate the questions to your experience.
 
-### Jekyll Themes
+4) Get to know your committee ahead of time if you can:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blogthings/academic-jobs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+It is okay to email and ask the committee chair the names of the other committee members. Find out their teaching, research, interests by visiting the department website or a quick google search. This way, you can try to relate to them during the interview. For example, you could say "I read your most recent paper that you have done with one of your students. I would also love to involve students in my research".
 
-### Support or Contact
+5) Show your excitement:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You need to show your enthusiasm and excitement throughout the whole interview. Don't forget to smile.
+
+6) Take note:
+
+At the end of the interview, you will get a chance to ask any questions you might have (and you SHOULD have a few good questions prepared). A good way to show your interest is to take notes while the committee answers your questions and make sure they notice that you are taking notes.
+
+Finally, don't forget to thank the search committee for the hard work they do. Good luck!
+
+
+
