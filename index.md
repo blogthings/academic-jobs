@@ -31,7 +31,7 @@ It is okay to email and ask the committee chair the names of the other committee
 
 You need to show your enthusiasm and excitement throughout the whole interview. Don't forget to smile.
 
-6) Take note:
+6) Take notes:
 
 At the end of the interview, you will get a chance to ask any questions you might have (and you SHOULD have a few good questions prepared). A good way to show your interest is to take notes while the committee answers your questions and make sure they notice that you are taking notes.
 
