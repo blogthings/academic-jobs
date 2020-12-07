@@ -1,4 +1,4 @@
-# How to get ready for a phone/skype/zoom interview for an academic job
+## How to get ready for a phone/skype/zoom interview for an academic job
 
 
 You have tirelessly applied to several academic positions and now your hard work is paying off... You got an interview. Depending on your field, the number of applications received by the faculty search committee varies tremendously. For example, an assistant professor in Mathematics position in a liberal arts college can expect to have about 100-200 applications while an assistant professor in Statistics position can only be around 50 applications. Regardless of the number of applications, getting an interview for an academic position, especially if it a tenure track position, is a huge deal. I have been in your place not too long ago and now I am on the other side of the table. So, I thought I share my experience being on several faculty search committees.  
