@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How to get ready for a phone/skype/zoom interview for an academic job
 
 You can use the [editor on GitHub](https://github.com/blogthings/academic-jobs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
